@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VitalikPro13
+- 👋 Hi, I’m Vitaliy!
 - 👀 I’m interested in making games.
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on making RPG on Unreal Engine
